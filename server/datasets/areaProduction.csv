@@ -1,0 +1,13 @@
+S.No ,Types_of_Crop                     ,CropName      ,Area  ,Production  ,Average Yield Rate (in Kilogram/Hectares) ,Soil                   ,Climate
+1    ,Food Grains - Cereals and Millets ,Paddy Kar              ,6382               ,24901                  ,3902                                      ,Riverine Alluvial soil ,Hot and Humid
+2    ,Food Grains - Cereals and Millets ,Paddy Samba            ,5774               ,23769                  ,4117                                      ,Riverine Alluvial soil ,Hot and Humid
+3    ,Food Grains - Cereals and Millets ,Pulses - Black Gram    ,566                ,256                    ,453                                       ,Sandy soil             ,Cold and dry
+4    ,Oil Seeds                         ,Groundnut              ,30                 ,58                     ,2018                                      ,drained sandy loam     ,long and warm
+5    ,Oil Seeds                         ,Coconut (in Lakh Nuts) ,23988              ,2100                   ,8754                                      ,Laterite               ,"Sunny, tropical"
+6    ,Fruits and Vegetables             ,Banana                 ,6306               ,132648                 ,21038                                     ,Salty clay loam        ,tropical
+7    ,Fruits and Vegetables             ,Mango                  ,1297               ,4225                   ,3256                                      ,"Alluvial, Laterite"   ,tropical
+8    ,Fruits and Vegetables             ,Jack                   ,582                ,1142                   ,1964                                      ,Alluvial soil          ,tropical
+9    ,Fruits and Vegetables             ,Cashew                 ,1082               ,448                    ,414                                       ,sandy loam             ,tropical
+10   ,Fruits and Vegetables             ,Tapioca                ,1403               ,44520                  ,31726                                     ,Red lateritic loam     ,"tropical, warm"
+11   ,Fruits and Vegetables             ,Tamarind               ,917                ,1784                   ,1945                                      ,deep loamy alluvial    ,"dry and windy, tropical"
+12   ,Fruits and Vegetables             ,Pineapple              ,57                 ,2090                   ,36514                                     ,sandy loam             ,tropical
