@@ -1,10 +1,3 @@
 # Agroxpert
 
-A crop prediction portal .
-
-1. District > Crops > graph (based on year)
-2. District > Crops > Yield
-3. District > Season > Crops
-
-
-
+A full-stack crop planning app that helps farmers plan crops during uncertain climatic conditions, considering district-wise (Tamil Nadu, India) factors like seasons, soil types and weather patterns. 
